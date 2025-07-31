@@ -5,6 +5,12 @@
   box-sizing: border-box;
 }
 
+.main-content {
+  /* margin: 25px 300px;
+  padding: 50px;
+  background-color: rgb(232, 232, 232); */
+}
+
 .title {
   margin: 25px 300px;
   padding: 50px;
@@ -31,8 +37,16 @@
 
 .recipes-list a:hover {
   border-bottom: solid 2px #ff9226;
-  /* text-decoration: underline solid #ff9226; */
-  /* text-underline-offset: 8px; */
   padding-bottom: 5px;
   transition: 300ms;
+}
+
+.recipe-title,
+.description,
+.ingredients,
+.steps,
+.references {
+  margin: 25px 300px;
+  padding: 50px;
+  background-color: rgb(232, 232, 232);
 }
