@@ -50,3 +50,15 @@
   padding: 50px;
   background-color: rgb(232, 232, 232);
 }
+
+.recipe-title-heading {
+  margin: 40px;
+  padding: 15px;
+  border-bottom: 2px solid #ffa500;
+}
+
+.recipe-img {
+  width: 100%;
+  margin: auto;
+  border-radius: 5px;
+}
