@@ -4,6 +4,7 @@ Technologies Used:
 - Git
 - GitHub
 - Vim
+- VS Code
 - HTML
 
 Purpose/Description
